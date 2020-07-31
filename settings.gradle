@@ -1,0 +1,2 @@
+rootProject.name='Ootsuk'
+include ':app'
